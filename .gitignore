@@ -3,4 +3,4 @@
 *.zip
 *.war
 *.iml
-
+*.DS_STORE
